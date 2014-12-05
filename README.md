@@ -8,7 +8,7 @@ jQueryLiveTranslator is a jQuery plugin to translate a static web site easily.
 
 1.   Finally, if you supply a callback, it will be executed over every element to be translated.
 
-Now you can see a [demo](Fixing Broken Link, will be back soon).
+Demo coming.
 
 ## Usage & Documentation
 
