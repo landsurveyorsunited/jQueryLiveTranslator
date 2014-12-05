@@ -8,7 +8,7 @@ jQueryLiveTranslator is a jQuery plugin to translate a static web site easily.
 
 1.   Finally, if you supply a callback, it will be executed over every element to be translated.
 
-Now you can see a [demo](Fixing Broken Link, will be back soon).
+Demo coming.
 
 ## Usage & Documentation
 
@@ -132,7 +132,7 @@ $(document).on('pagecreate','#home',function(event){
 
 Dual licensed under the GPL (http://dev.jquery.com/browser/trunk/jquery/GPL-LICENSE.txt) and MIT (http://dev.jquery.com/browser/trunk/jquery/MIT-LICENSE.txt) licenses.
 
-Written by Ilyas Bakouch (@isbkch)
+Written by Ilyas Bakouch (@vladimire)
 
 Based on Antonio Laguna's jqueryTranslator jQuery plugin.
 https://github.com/Belelros/jqueryTranslator
