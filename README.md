@@ -132,7 +132,7 @@ $(document).on('pagecreate','#home',function(event){
 
 Dual licensed under the GPL (http://dev.jquery.com/browser/trunk/jquery/GPL-LICENSE.txt) and MIT (http://dev.jquery.com/browser/trunk/jquery/MIT-LICENSE.txt) licenses.
 
-Written by Ilyas Bakouch (@isbkch)
+Written by Ilyas Bakouch (@vladimire)
 
 Based on Antonio Laguna's jqueryTranslator jQuery plugin.
 https://github.com/Belelros/jqueryTranslator
