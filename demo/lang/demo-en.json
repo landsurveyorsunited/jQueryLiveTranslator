@@ -1,0 +1,4 @@
+{
+  "pIntro": "jQueryLiveTranslator is a jQuery plugin to translate a static web site easily.",
+  "liIntro1" : "It first loads asynchronously the translation files you supply to the plugin. It can be a string or an array of them"
+}
