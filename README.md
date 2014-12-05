@@ -4,7 +4,7 @@ jQueryLiveTranslator is a jQuery plugin to translate a static web site easily.
 
 1.   It first loads asynchronously the translation files you supply to the plugin. It can be a string or an array of them.
 
-1.   Then, if no options are specified, it translates the element based on the user's browser language. The plugin is able to translate the text of the element or change attributes, or even both!
+1.   Then, if no options are specified, it translates the element based on the user's browser language. The plugin is also able to translate using a lang variable you supply, see demo for more information!
 
 1.   Finally, if you supply a callback, it will be executed over every element to be translated.
 
@@ -12,7 +12,7 @@ Demo is in package.
 
 ## Usage & Documentation
 
-Just include one of the plugin files in your file. 
+Just include the plugin files in your file. 
 
 ### Use the "data-translate" attribute on DOM elements you want to be translated
 
